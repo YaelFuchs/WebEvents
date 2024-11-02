@@ -1,0 +1,96 @@
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.Development.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.exe
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.deps.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.runtimeconfig.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.pdb
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.AssemblyReference.cache
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.GeneratedMSBuildEditorConfig.editorconfig
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfoInputs.cache
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfo.cs
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CoreCompileInputs.cache
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cs
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cache
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.WebEvents.Microsoft.AspNetCore.StaticWebAssets.props
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.build.WebEvents.props
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebEvents.props
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebEvents.props
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.pack.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.build.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.development.json
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\scopedcss\bundle\WebEvents.styles.css
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CopyComplete
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\refint\WebEvents.dll
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.pdb
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.genruntimeconfig.cache
+M:\פולסטאק שנה ב תשפה\C#\מימי קניג\WebEvents\WebEvents\obj\Debug\net6.0\ref\WebEvents.dll
+D:\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.Development.json
+D:\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.json
+D:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.exe
+D:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.deps.json
+D:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.runtimeconfig.json
+D:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.dll
+D:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.pdb
+D:\WebEvents\WebEvents\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.AssemblyReference.cache
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfoInputs.cache
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfo.cs
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CoreCompileInputs.cache
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cs
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cache
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.WebEvents.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.build.WebEvents.props
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebEvents.props
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebEvents.props
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebEvents\WebEvents\obj\Debug\net6.0\scopedcss\bundle\WebEvents.styles.css
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CopyComplete
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.dll
+D:\WebEvents\WebEvents\obj\Debug\net6.0\refint\WebEvents.dll
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.pdb
+D:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.genruntimeconfig.cache
+D:\WebEvents\WebEvents\obj\Debug\net6.0\ref\WebEvents.dll
+E:\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.Development.json
+E:\WebEvents\WebEvents\bin\Debug\net6.0\appsettings.json
+E:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.exe
+E:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.deps.json
+E:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.runtimeconfig.json
+E:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.dll
+E:\WebEvents\WebEvents\bin\Debug\net6.0\WebEvents.pdb
+E:\WebEvents\WebEvents\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WebEvents\WebEvents\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.AssemblyReference.cache
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfoInputs.cache
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.AssemblyInfo.cs
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CoreCompileInputs.cache
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cs
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.MvcApplicationPartsAssemblyInfo.cache
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.WebEvents.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.build.WebEvents.props
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebEvents.props
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebEvents.props
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.build.json
+E:\WebEvents\WebEvents\obj\Debug\net6.0\staticwebassets.development.json
+E:\WebEvents\WebEvents\obj\Debug\net6.0\scopedcss\bundle\WebEvents.styles.css
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.csproj.CopyComplete
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.dll
+E:\WebEvents\WebEvents\obj\Debug\net6.0\refint\WebEvents.dll
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.pdb
+E:\WebEvents\WebEvents\obj\Debug\net6.0\WebEvents.genruntimeconfig.cache
+E:\WebEvents\WebEvents\obj\Debug\net6.0\ref\WebEvents.dll
